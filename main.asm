@@ -1,4 +1,4 @@
-mov R1, #.Red
+mov R1, #.red
 str R1, .Pixel32
 str R1, .Pixel33
 str R1, .Pixel34
