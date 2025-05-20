@@ -1,0 +1,35 @@
+mov R1, #.Red
+str R1, .Pixel32
+str R1, .Pixel33
+str R1, .Pixel34
+str R1, .Pixel35
+str R1, .Pixel36
+str R1, .Pixel37
+str R1, .Pixel38
+str R1, .Pixel39
+str R1, .Pixel40
+str R1, .Pixel41
+str R1, .Pixel42
+str R1, .Pixel43
+str R1, .Pixel44
+str R1, .Pixel45
+str R1, .Pixel46
+str R1, .Pixel47
+str R1, .Pixel48
+str R1, .Pixel49
+str R1, .Pixel50
+str R1, .Pixel51
+str R1, .Pixel52
+str R1, .Pixel53
+str R1, .Pixel54
+str R1, .Pixel55
+str R1, .Pixel56
+str R1, .Pixel57
+str R1, .Pixel58
+str R1, .Pixel59
+str R1, .Pixel60
+str R1, .Pixel61
+str R1, .Pixel62
+str R1, .Pixel63
+
+halt
